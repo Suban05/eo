@@ -5,13 +5,14 @@
   error:
   - undefined method '[]' for nil
   - 'Judge quality-of-service stopped by timeout: execution expired'
+  - 'Judge quantity-of-deliverables stopped by timeout: execution expired'
   inserted: 8
-  seconds: 378.504366787
+  seconds: 529.0317779
   version: 0.36.2
   what: judges-summary
-  when: 2026-01-20 13:01:36.168675307 Z
+  when: 2026-01-20 13:58:45.477771520 Z
 - _id: 1
-  _time: 2026-01-20 12:58:00.742713139 Z
+  _time: 2026-01-20 13:52:28.948778280 Z
   _version: 0.8.0/0.36.2/
   total_active_contributors: 11
   total_commits: 48379
@@ -19,1055 +20,564 @@
   total_files: 14303
   total_forks: 363
   total_issues: 4348
-  total_pulls: 7824
+  total_pulls: 7825
   total_releases: 822
   total_repositories: 37
   total_stars: 1725
   what: dimensions-of-terrain
-  when: 2026-01-20 12:55:17.990494855 Z
+  when: 2026-01-20 13:49:56.771615552 Z
 - _id: 2
-  _time: 2026-01-20 12:58:00.996837395 Z
-  _version: 0.8.0/0.36.2/
-  latest: 0
-  repository: 977982682
-  what: min-issue-was-found
-  where: github
-- _id: 3
-  _time: 2026-01-20 12:58:01.000404336 Z
-  _version: 0.8.0/0.36.2/
-  latest: 0
-  repository: 574534248
-  what: min-issue-was-found
-  where: github
-- _id: 4
-  _time: 2026-01-20 12:58:01.003941331 Z
+  _time: 2026-01-20 13:52:43.125803485 Z
   _version: 0.8.0/0.36.2/
   latest: 0
   repository: 489321585
   what: min-issue-was-found
   where: github
-- _id: 5
-  _time: 2026-01-20 12:58:01.007906880 Z
+- _id: 3
+  _time: 2026-01-20 13:52:43.129351148 Z
   _version: 0.8.0/0.36.2/
   latest: 0
   repository: 889819508
   what: min-issue-was-found
   where: github
-- _id: 6
-  _time: 2026-01-20 12:58:01.011560364 Z
-  _version: 0.8.0/0.36.2/
-  latest: 0
-  repository: 499536612
-  what: min-issue-was-found
-  where: github
-- _id: 7
-  _time: 2026-01-20 12:58:01.015546583 Z
-  _version: 0.8.0/0.36.2/
-  latest: 0
-  repository: 970961472
-  what: min-issue-was-found
-  where: github
-- _id: 8
-  _time: 2026-01-20 12:58:01.019709774 Z
-  _version: 0.8.0/0.36.2/
-  latest: 0
-  repository: 482612876
-  what: min-issue-was-found
-  where: github
-- _id: 9
-  _time: 2026-01-20 12:58:01.023493232 Z
-  _version: 0.8.0/0.36.2/
-  latest: 0
-  repository: 955159947
-  what: min-issue-was-found
-  where: github
-- _id: 10
-  _time: 2026-01-20 12:58:01.027650582 Z
-  _version: 0.8.0/0.36.2/
-  latest: 0
-  repository: 551486781
-  what: min-issue-was-found
-  where: github
-- _id: 11
-  _time: 2026-01-20 12:58:01.032261414 Z
+- _id: 4
+  _time: 2026-01-20 13:52:43.132162833 Z
   _version: 0.8.0/0.36.2/
   latest: 0
   repository: 552394123
   what: min-issue-was-found
   where: github
-- _id: 12
-  _time: 2026-01-20 12:58:01.036748123 Z
+- _id: 5
+  _time: 2026-01-20 13:52:43.146707386 Z
+  _version: 0.8.0/0.36.2/
+  latest: 0
+  repository: 73056727
+  what: min-issue-was-found
+  where: github
+- _id: 6
+  _time: 2026-01-20 13:52:43.149633915 Z
+  _version: 0.8.0/0.36.2/
+  latest: 0
+  repository: 13623548
+  what: min-issue-was-found
+  where: github
+- _id: 7
+  _time: 2026-01-20 13:52:43.152405735 Z
+  _version: 0.8.0/0.36.2/
+  latest: 0
+  repository: 574534248
+  what: min-issue-was-found
+  where: github
+- _id: 8
+  _time: 2026-01-20 13:52:43.155227679 Z
+  _version: 0.8.0/0.36.2/
+  latest: 0
+  repository: 447446664
+  what: min-issue-was-found
+  where: github
+- _id: 9
+  _time: 2026-01-20 13:52:43.158088846 Z
+  _version: 0.8.0/0.36.2/
+  latest: 0
+  repository: 977982682
+  what: min-issue-was-found
+  where: github
+- _id: 10
+  _time: 2026-01-20 13:52:43.162441746 Z
   _version: 0.8.0/0.36.2/
   latest: 0
   repository: 1037933692
   what: min-issue-was-found
   where: github
-- _id: 13
-  _time: 2026-01-20 12:58:01.039919431 Z
+- _id: 11
+  _time: 2026-01-20 13:52:43.165591013 Z
   _version: 0.8.0/0.36.2/
   latest: 0
-  repository: 721146770
+  repository: 798766850
+  what: min-issue-was-found
+  where: github
+- _id: 12
+  _time: 2026-01-20 13:52:43.168762070 Z
+  _version: 0.8.0/0.36.2/
+  latest: 0
+  repository: 501942888
+  what: min-issue-was-found
+  where: github
+- _id: 13
+  _time: 2026-01-20 13:52:43.171971930 Z
+  _version: 0.8.0/0.36.2/
+  latest: 0
+  repository: 493235807
   what: min-issue-was-found
   where: github
 - _id: 14
-  _time: 2026-01-20 12:58:01.043101589 Z
+  _time: 2026-01-20 13:52:43.175222356 Z
   _version: 0.8.0/0.36.2/
   latest: 0
-  repository: 568705267
+  repository: 731516758
   what: min-issue-was-found
   where: github
 - _id: 15
-  _time: 2026-01-20 12:58:01.046349181 Z
+  _time: 2026-01-20 13:52:43.178504762 Z
   _version: 0.8.0/0.36.2/
   latest: 0
   repository: 510082372
   what: min-issue-was-found
   where: github
 - _id: 16
-  _time: 2026-01-20 12:58:01.049649861 Z
-  _version: 0.8.0/0.36.2/
-  latest: 0
-  repository: 73056727
-  what: min-issue-was-found
-  where: github
-- _id: 17
-  _time: 2026-01-20 12:58:01.053091296 Z
-  _version: 0.8.0/0.36.2/
-  latest: 0
-  repository: 671896902
-  what: min-issue-was-found
-  where: github
-- _id: 18
-  _time: 2026-01-20 12:58:01.058084717 Z
-  _version: 0.8.0/0.36.2/
-  latest: 0
-  repository: 1049128198
-  what: min-issue-was-found
-  where: github
-- _id: 19
-  _time: 2026-01-20 12:58:01.065681729 Z
-  _version: 0.8.0/0.36.2/
-  latest: 0
-  repository: 396732517
-  what: min-issue-was-found
-  where: github
-- _id: 20
-  _time: 2026-01-20 12:58:01.072133310 Z
-  _version: 0.8.0/0.36.2/
-  latest: 0
-  repository: 731516758
-  what: min-issue-was-found
-  where: github
-- _id: 21
-  _time: 2026-01-20 12:58:01.079599727 Z
-  _version: 0.8.0/0.36.2/
-  latest: 0
-  repository: 798766850
-  what: min-issue-was-found
-  where: github
-- _id: 22
-  _time: 2026-01-20 12:58:01.084519890 Z
-  _version: 0.8.0/0.36.2/
-  latest: 0
-  repository: 531151981
-  what: min-issue-was-found
-  where: github
-- _id: 23
-  _time: 2026-01-20 12:58:01.089504304 Z
-  _version: 0.8.0/0.36.2/
-  latest: 0
-  repository: 574459304
-  what: min-issue-was-found
-  where: github
-- _id: 24
-  _time: 2026-01-20 12:58:01.094173426 Z
-  _version: 0.8.0/0.36.2/
-  latest: 0
-  repository: 490157985
-  what: min-issue-was-found
-  where: github
-- _id: 25
-  _time: 2026-01-20 12:58:01.098713084 Z
+  _time: 2026-01-20 13:52:43.181903105 Z
   _version: 0.8.0/0.36.2/
   latest: 0
   repository: 840332960
   what: min-issue-was-found
   where: github
-- _id: 26
-  _time: 2026-01-20 12:58:01.103602930 Z
-  _version: 0.8.0/0.36.2/
-  latest: 0
-  repository: 13623548
-  what: min-issue-was-found
-  where: github
-- _id: 27
-  _time: 2026-01-20 12:58:01.108115057 Z
-  _version: 0.8.0/0.36.2/
-  latest: 0
-  repository: 493235807
-  what: min-issue-was-found
-  where: github
-- _id: 28
-  _time: 2026-01-20 12:58:01.113078772 Z
-  _version: 0.8.0/0.36.2/
-  latest: 0
-  repository: 546194972
-  what: min-issue-was-found
-  where: github
-- _id: 29
-  _time: 2026-01-20 12:58:01.117864173 Z
-  _version: 0.8.0/0.36.2/
-  latest: 0
-  repository: 519246071
-  what: min-issue-was-found
-  where: github
-- _id: 30
-  _time: 2026-01-20 12:58:01.122756864 Z
-  _version: 0.8.0/0.36.2/
-  latest: 0
-  repository: 519299365
-  what: min-issue-was-found
-  where: github
-- _id: 31
-  _time: 2026-01-20 12:58:01.127215531 Z
-  _version: 0.8.0/0.36.2/
-  latest: 0
-  repository: 784310467
-  what: min-issue-was-found
-  where: github
-- _id: 32
-  _time: 2026-01-20 12:58:01.131529305 Z
-  _version: 0.8.0/0.36.2/
-  latest: 0
-  repository: 501942888
-  what: min-issue-was-found
-  where: github
-- _id: 33
-  _time: 2026-01-20 12:58:01.135789799 Z
-  _version: 0.8.0/0.36.2/
-  latest: 0
-  repository: 490221501
-  what: min-issue-was-found
-  where: github
-- _id: 34
-  _time: 2026-01-20 12:58:01.140167834 Z
-  _version: 0.8.0/0.36.2/
-  latest: 0
-  repository: 570457023
-  what: min-issue-was-found
-  where: github
-- _id: 35
-  _time: 2026-01-20 12:58:01.144819242 Z
+- _id: 17
+  _time: 2026-01-20 13:52:43.185313180 Z
   _version: 0.8.0/0.36.2/
   latest: 0
   repository: 543969974
   what: min-issue-was-found
   where: github
-- _id: 36
-  _time: 2026-01-20 12:58:01.151809565 Z
+- _id: 18
+  _time: 2026-01-20 13:52:43.188886140 Z
   _version: 0.8.0/0.36.2/
   latest: 0
-  repository: 492899189
+  repository: 499536612
   what: min-issue-was-found
   where: github
-- _id: 37
-  _time: 2026-01-20 12:58:01.158939018 Z
-  _version: 0.8.0/0.36.2/
-  latest: 0
-  repository: 447446664
-  what: min-issue-was-found
-  where: github
-- _id: 38
-  _time: 2026-01-20 12:58:01.166232200 Z
-  _version: 0.8.0/0.36.2/
-  latest: 0
-  repository: 501259435
-  what: min-issue-was-found
-  where: github
-- _id: 39
-  _time: 2026-01-20 12:58:01.827031617 Z
-  _version: 0.8.0/0.36.2/
-  latest: 0
-  repository: 568705267
-  what: events-were-scanned
-  where: github
-- _id: 40
-  _time: 2026-01-20 12:58:02.330402227 Z
-  _version: 0.8.0/0.36.2/
-  commit: e46c77a181bcc65b2d0c2e367ee86a183955e738
-  default_branch: master
-  details: 'A new Git push #29552927814 has arrived to objectionary/xax, made by @yegor256
-    (default branch is ''master''), not associated with any pull request.'
-  event_id: 7257999806
-  event_type: PushEvent
-  is_human: 1
-  push_id: 29552927814
-  ref: refs/heads/master
-  repository: 574534248
-  to_master: 1
-  what: git-was-pushed
-  when: 2026-01-07 12:00:16.000000000 Z
-  where: github
-  who: 526301
-- _id: 41
-  _time: 2026-01-20 12:58:02.980906366 Z
-  _version: 0.8.0/0.36.2/
-  commit: a15349cdf826aac40d05d0d137860165a09a9345
-  default_branch: master
-  details: 'A new Git push #29412106076 has arrived to objectionary/xax, made by @yegor256
-    (default branch is ''master''), not associated with any pull request.'
-  event_id: 7117400842
-  event_type: PushEvent
-  is_human: 1
-  push_id: 29412106076
-  ref: refs/heads/master
-  repository: 574534248
-  to_master: 1
-  what: git-was-pushed
-  when: 2026-01-01 10:13:57.000000000 Z
-  where: github
-  who: 526301
-- _id: 42
-  _time: 2026-01-20 12:58:03.297497015 Z
-  _version: 0.8.0/0.36.2/
-  latest: 7619204792
-  repository: 574534248
-  what: events-were-scanned
-  where: github
-- _id: 43
-  _time: 2026-01-20 12:58:03.835818656 Z
-  _version: 0.8.0/0.36.2/
-  latest: 7235387027
-  repository: 492899189
-  what: events-were-scanned
-  where: github
-- _id: 44
-  _time: 2026-01-20 12:58:04.407217659 Z
-  _version: 0.8.0/0.36.2/
-  commit: 9a9da0567ff25064867ce8c7bc35f0864266363a
-  default_branch: master
-  details: 'A new Git push #29411983681 has arrived to objectionary/news.eolang.org,
-    made by @yegor256 (default branch is ''master''), not associated with any pull
-    request.'
-  event_id: 7117279090
-  event_type: PushEvent
-  is_human: 1
-  push_id: 29411983681
-  ref: refs/heads/master
-  repository: 501259435
-  to_master: 1
-  what: git-was-pushed
-  when: 2026-01-01 10:03:04.000000000 Z
-  where: github
-  who: 526301
-- _id: 45
-  _time: 2026-01-20 12:58:04.845330009 Z
-  _version: 0.8.0/0.36.2/
-  branch: renovate/ruby-4.x
-  details: The pull request objectionary/news.eolang.org#94 has been opened by @renovate[bot].
-  event_id: 5492268740
-  event_type: PullRequestEvent
-  is_human: 0
-  issue: 94
-  repository: 501259435
-  what: pull-was-opened
-  when: 2025-12-25 04:41:22.000000000 Z
-  where: github
-  who: 29139614
-- _id: 46
-  _time: 2026-01-20 12:58:05.024415872 Z
-  _version: 0.8.0/0.36.2/
-  latest: 7614838129
-  repository: 501259435
-  what: events-were-scanned
-  where: github
-- _id: 47
-  _time: 2026-01-20 12:58:06.843583012 Z
-  _version: 0.8.0/0.36.2/
-  branch: renovate/com.jcabi-parent-0.x
-  details: The pull request objectionary/lints#795 has been opened by @renovate[bot].
-  event_id: 5593325434
-  event_type: PullRequestEvent
-  is_human: 0
-  issue: 795
-  repository: 889819508
-  what: pull-was-opened
-  when: 2026-01-04 12:49:20.000000000 Z
-  where: github
-  who: 29139614
-- _id: 48
-  _time: 2026-01-20 12:58:06.851739865 Z
-  _version: 0.8.0/0.36.2/
-  details: The issue objectionary/lints#794 has been closed by @yegor256.
-  event_id: 5593324267
-  event_type: IssuesEvent
-  is_human: 1
-  issue: 794
-  repository: 889819508
-  what: issue-was-closed
-  when: 2026-01-04 12:49:07.000000000 Z
-  where: github
-  who: 526301
-- _id: 49
-  _time: 2026-01-20 12:58:07.343476669 Z
-  _version: 0.8.0/0.36.2/
-  commit: 2ba2b92969b23d1f9d9789c1bd8752a700b725c3
-  default_branch: master
-  details: 'A new Git push #29468846532 has arrived to objectionary/lints, made by
-    @yegor256 (default branch is ''master''), not associated with any pull request.'
-  event_id: 7174009656
-  event_type: PushEvent
-  is_human: 1
-  push_id: 29468846532
-  ref: refs/heads/master
-  repository: 889819508
-  to_master: 1
-  what: git-was-pushed
-  when: 2026-01-04 12:20:25.000000000 Z
-  where: github
-  who: 526301
-- _id: 50
-  _time: 2026-01-20 12:58:07.748937103 Z
-  _version: 0.8.0/0.36.2/
-  commit: b817ec0edb690883134448204e0c0f58ef19ea2c
-  default_branch: master
-  details: 'A new Git push #29466084923 has arrived to objectionary/lints, made by
-    @yegor256 (default branch is ''master''), not associated with any pull request.'
-  event_id: 7171252465
-  event_type: PushEvent
-  is_human: 1
-  push_id: 29466084923
-  ref: refs/heads/master
-  repository: 889819508
-  to_master: 1
-  what: git-was-pushed
-  when: 2026-01-04 08:37:57.000000000 Z
-  where: github
-  who: 526301
-- _id: 51
-  _time: 2026-01-20 12:58:07.967283678 Z
-  _version: 0.8.0/0.36.2/
-  details: The issue objectionary/lints#794 has been opened by @yegor256.
-  event_id: 5590211536
-  event_type: IssuesEvent
-  is_human: 1
-  issue: 794
-  repository: 889819508
-  what: issue-was-opened
-  when: 2026-01-04 01:40:12.000000000 Z
-  where: github
-  who: 526301
-- _id: 52
-  _time: 2026-01-20 12:58:08.005850713 Z
-  _version: 0.8.0/0.36.2/
-  commit: 7f2554f5d1c1963c1f3f2d7fe5ee0a1962dab809
-  default_branch: master
-  details: 'A new Git push #29411961742 has arrived to objectionary/lints, made by
-    @yegor256 (default branch is ''master''), not associated with any pull request.'
-  event_id: 7117257201
-  event_type: PushEvent
-  is_human: 1
-  push_id: 29411961742
-  ref: refs/heads/master
-  repository: 889819508
-  to_master: 1
-  what: git-was-pushed
-  when: 2026-01-01 10:01:26.000000000 Z
-  where: github
-  who: 526301
-- _id: 53
-  _time: 2026-01-20 12:58:08.353290227 Z
-  _version: 0.8.0/0.36.2/
-  branch: renovate/actions-cache-5.x
-  details: The pull request objectionary/lints#793 has been opened by @renovate[bot].
-  event_id: 5516742219
-  event_type: PullRequestEvent
-  is_human: 0
-  issue: 793
-  repository: 889819508
-  what: pull-was-opened
-  when: 2025-12-28 13:12:59.000000000 Z
-  where: github
-  who: 29139614
-- _id: 54
-  _time: 2026-01-20 12:58:08.372072096 Z
-  _version: 0.8.0/0.36.2/
-  branch: renovate/com.qulice-qulice-maven-plugin-0.x
-  details: The pull request objectionary/lints#792 has been opened by @renovate[bot].
-  event_id: 5516741773
-  event_type: PullRequestEvent
-  is_human: 0
-  issue: 792
-  repository: 889819508
-  what: pull-was-opened
-  when: 2025-12-28 13:12:53.000000000 Z
-  where: github
-  who: 29139614
-- _id: 55
-  _time: 2026-01-20 12:58:09.327163919 Z
-  _version: 0.8.0/0.36.2/
-  branch: renovate/crate-ci-typos-1.x
-  details: The pull request objectionary/lints#791 has been opened by @renovate[bot].
-  event_id: 5511169679
-  event_type: PullRequestEvent
-  is_human: 0
-  issue: 791
-  repository: 889819508
-  what: pull-was-opened
-  when: 2025-12-27 11:59:48.000000000 Z
-  where: github
-  who: 29139614
-- _id: 56
-  _time: 2026-01-20 12:58:09.365448008 Z
-  _version: 0.8.0/0.36.2/
-  branch: renovate/jamesives-github-pages-deploy-action-4.x
-  details: The pull request objectionary/lints#790 has been opened by @renovate[bot].
-  event_id: 5511168320
-  event_type: PullRequestEvent
-  is_human: 0
-  issue: 790
-  repository: 889819508
-  what: pull-was-opened
-  when: 2025-12-27 11:59:24.000000000 Z
-  where: github
-  who: 29139614
-- _id: 57
-  _time: 2026-01-20 12:58:11.375375711 Z
-  _version: 0.8.0/0.36.2/
-  branch: renovate/org.ow2.asm-asm-9.x
-  details: The pull request objectionary/lints#789 has been opened by @renovate[bot].
-  event_id: 5502405003
-  event_type: PullRequestEvent
-  is_human: 0
-  issue: 789
-  repository: 889819508
-  what: pull-was-opened
-  when: 2025-12-26 09:26:42.000000000 Z
-  where: github
-  who: 29139614
-- _id: 58
-  _time: 2026-01-20 12:58:11.394267335 Z
-  _version: 0.8.0/0.36.2/
-  branch: renovate/org.eolang-hone-maven-plugin-0.x
-  details: The pull request objectionary/lints#788 has been opened by @renovate[bot].
-  event_id: 5502404496
-  event_type: PullRequestEvent
-  is_human: 0
-  issue: 788
-  repository: 889819508
-  what: pull-was-opened
-  when: 2025-12-26 09:26:38.000000000 Z
-  where: github
-  who: 29139614
-- _id: 59
-  _time: 2026-01-20 12:58:11.479875017 Z
-  _version: 0.8.0/0.36.2/
-  details: The issue objectionary/lints#787 has been opened by @yegor256.
-  event_id: 5500484026
-  event_type: IssuesEvent
-  is_human: 1
-  issue: 787
-  repository: 889819508
-  what: issue-was-opened
-  when: 2025-12-26 05:58:01.000000000 Z
-  where: github
-  who: 526301
-- _id: 60
-  _time: 2026-01-20 12:58:11.515175631 Z
-  _version: 0.8.0/0.36.2/
-  branch: renovate/com.github.spotbugs-spotbugs-maven-plugin-4.x
-  details: The pull request objectionary/lints#786 has been opened by @renovate[bot].
-  event_id: 5500466594
-  event_type: PullRequestEvent
-  is_human: 0
-  issue: 786
-  repository: 889819508
-  what: pull-was-opened
-  when: 2025-12-26 05:55:25.000000000 Z
-  where: github
-  who: 29139614
-- _id: 61
-  _time: 2026-01-20 12:58:11.545020846 Z
-  _version: 0.8.0/0.36.2/
-  branch: renovate/com.github.spotbugs-spotbugs-4.x
-  details: The pull request objectionary/lints#785 has been opened by @renovate[bot].
-  event_id: 5500466180
-  event_type: PullRequestEvent
-  is_human: 0
-  issue: 785
-  repository: 889819508
-  what: pull-was-opened
-  when: 2025-12-26 05:55:21.000000000 Z
-  where: github
-  who: 29139614
-- _id: 62
-  _time: 2026-01-20 12:58:13.215478485 Z
-  _version: 0.8.0/0.36.2/
-  latest: 7304278494
-  repository: 889819508
-  what: events-were-scanned
-  where: github
-- _id: 63
-  _time: 2026-01-20 12:58:16.994447976 Z
-  _version: 0.8.0/0.36.2/
-  details: The issue objectionary/phino#600 has been closed by @rultor.
-  event_id: 5922355029
-  event_type: IssuesEvent
-  is_human: 0
-  issue: 600
-  repository: 977982682
-  what: issue-was-closed
-  when: 2026-01-20 07:54:54.000000000 Z
-  where: github
-  who: 8086956
-- _id: 64
-  _time: 2026-01-20 12:58:34.561120581 Z
+- _id: 19
+  _time: 2026-01-20 13:52:43.192407534 Z
   _version: 0.8.0/0.36.2/
   latest: 0
   repository: 490157985
-  what: labels-were-scanned
+  what: min-issue-was-found
   where: github
-- _id: 65
-  _time: 2026-01-20 12:58:34.568859236 Z
-  _version: 0.8.0/0.36.2/
-  latest: 0
-  repository: 570457023
-  what: labels-were-scanned
-  where: github
-- _id: 66
-  _time: 2026-01-20 12:58:34.575818541 Z
+- _id: 20
+  _time: 2026-01-20 13:52:43.196001503 Z
   _version: 0.8.0/0.36.2/
   latest: 0
   repository: 396732517
-  what: labels-were-scanned
+  what: min-issue-was-found
   where: github
-- _id: 67
-  _time: 2026-01-20 12:58:34.582354959 Z
+- _id: 21
+  _time: 2026-01-20 13:52:43.199620459 Z
   _version: 0.8.0/0.36.2/
   latest: 0
-  repository: 73056727
-  what: labels-were-scanned
+  repository: 519246071
+  what: min-issue-was-found
   where: github
-- _id: 68
-  _time: 2026-01-20 12:58:34.896325190 Z
-  _version: 0.8.0/0.36.2/
-  details: The '#enhancement' label was attached by @yegor256 to the issue objectionary/lints#787.
-  issue: 787
-  label: enhancement
-  repository: 889819508
-  what: label-was-attached
-  when: 2025-12-26 05:58:08.000000000 Z
-  where: github
-  who: 526301
-- _id: 70
-  _time: 2026-01-20 12:58:34.907459730 Z
+- _id: 22
+  _time: 2026-01-20 13:52:43.203314866 Z
   _version: 0.8.0/0.36.2/
   latest: 0
-  repository: 501942888
-  what: labels-were-scanned
+  repository: 501259435
+  what: min-issue-was-found
   where: github
-- _id: 71
-  _time: 2026-01-20 12:58:34.914324678 Z
+- _id: 23
+  _time: 2026-01-20 13:52:43.215039029 Z
+  _version: 0.8.0/0.36.2/
+  latest: 0
+  repository: 570457023
+  what: min-issue-was-found
+  where: github
+- _id: 24
+  _time: 2026-01-20 13:52:43.223504279 Z
+  _version: 0.8.0/0.36.2/
+  latest: 0
+  repository: 721146770
+  what: min-issue-was-found
+  where: github
+- _id: 25
+  _time: 2026-01-20 13:52:43.231961514 Z
+  _version: 0.8.0/0.36.2/
+  latest: 0
+  repository: 546194972
+  what: min-issue-was-found
+  where: github
+- _id: 26
+  _time: 2026-01-20 13:52:43.237374699 Z
   _version: 0.8.0/0.36.2/
   latest: 0
   repository: 551486781
+  what: min-issue-was-found
+  where: github
+- _id: 27
+  _time: 2026-01-20 13:52:43.243297339 Z
+  _version: 0.8.0/0.36.2/
+  latest: 0
+  repository: 490221501
+  what: min-issue-was-found
+  where: github
+- _id: 28
+  _time: 2026-01-20 13:52:43.248609214 Z
+  _version: 0.8.0/0.36.2/
+  latest: 0
+  repository: 568705267
+  what: min-issue-was-found
+  where: github
+- _id: 29
+  _time: 2026-01-20 13:52:43.254155089 Z
+  _version: 0.8.0/0.36.2/
+  latest: 0
+  repository: 492899189
+  what: min-issue-was-found
+  where: github
+- _id: 30
+  _time: 2026-01-20 13:52:43.259589023 Z
+  _version: 0.8.0/0.36.2/
+  latest: 0
+  repository: 671896902
+  what: min-issue-was-found
+  where: github
+- _id: 31
+  _time: 2026-01-20 13:52:43.264626014 Z
+  _version: 0.8.0/0.36.2/
+  latest: 0
+  repository: 955159947
+  what: min-issue-was-found
+  where: github
+- _id: 32
+  _time: 2026-01-20 13:52:43.270336036 Z
+  _version: 0.8.0/0.36.2/
+  latest: 0
+  repository: 531151981
+  what: min-issue-was-found
+  where: github
+- _id: 33
+  _time: 2026-01-20 13:52:43.275521665 Z
+  _version: 0.8.0/0.36.2/
+  latest: 0
+  repository: 519299365
+  what: min-issue-was-found
+  where: github
+- _id: 34
+  _time: 2026-01-20 13:52:43.280327213 Z
+  _version: 0.8.0/0.36.2/
+  latest: 0
+  repository: 784310467
+  what: min-issue-was-found
+  where: github
+- _id: 35
+  _time: 2026-01-20 13:52:43.284987980 Z
+  _version: 0.8.0/0.36.2/
+  latest: 0
+  repository: 574459304
+  what: min-issue-was-found
+  where: github
+- _id: 36
+  _time: 2026-01-20 13:52:43.291110624 Z
+  _version: 0.8.0/0.36.2/
+  latest: 0
+  repository: 1049128198
+  what: min-issue-was-found
+  where: github
+- _id: 37
+  _time: 2026-01-20 13:52:43.295764247 Z
+  _version: 0.8.0/0.36.2/
+  latest: 0
+  repository: 482612876
+  what: min-issue-was-found
+  where: github
+- _id: 38
+  _time: 2026-01-20 13:52:43.300456312 Z
+  _version: 0.8.0/0.36.2/
+  latest: 0
+  repository: 970961472
+  what: min-issue-was-found
+  where: github
+- _id: 39
+  _time: 2026-01-20 13:52:44.162947540 Z
+  _version: 0.8.0/0.36.2/
+  branch: renovate/com.jcabi-parent-0.x
+  details: The pull request objectionary/aoi#170 has been opened by @renovate[bot].
+  event_id: 5930508359
+  event_type: PullRequestEvent
+  is_human: 0
+  issue: 170
+  repository: 552394123
+  what: pull-was-opened
+  when: 2026-01-20 13:40:44.000000000 Z
+  where: github
+  who: 29139614
+- _id: 40
+  _time: 2026-01-20 13:52:45.096891869 Z
+  _version: 0.8.0/0.36.2/
+  latest: 0
+  repository: 519299365
   what: labels-were-scanned
   where: github
-- _id: 72
-  _time: 2026-01-20 12:58:34.921194855 Z
+- _id: 41
+  _time: 2026-01-20 13:52:45.100863305 Z
+  _version: 0.8.0/0.36.2/
+  latest: 0
+  repository: 501259435
+  what: labels-were-scanned
+  where: github
+- _id: 42
+  _time: 2026-01-20 13:52:45.104921143 Z
   _version: 0.8.0/0.36.2/
   latest: 0
   repository: 721146770
   what: labels-were-scanned
   where: github
-- _id: 73
-  _time: 2026-01-20 12:58:34.929591552 Z
+- _id: 43
+  _time: 2026-01-20 13:52:45.108962810 Z
   _version: 0.8.0/0.36.2/
   latest: 0
-  repository: 1049128198
+  repository: 73056727
   what: labels-were-scanned
   where: github
-- _id: 74
-  _time: 2026-01-20 12:58:34.935496820 Z
-  _version: 0.8.0/0.36.2/
-  latest: 0
-  repository: 501259435
-  what: labels-were-scanned
-  where: github
-- _id: 75
-  _time: 2026-01-20 12:58:34.941506374 Z
-  _version: 0.8.0/0.36.2/
-  latest: 0
-  repository: 482612876
-  what: labels-were-scanned
-  where: github
-- _id: 76
-  _time: 2026-01-20 12:58:34.947586491 Z
-  _version: 0.8.0/0.36.2/
-  latest: 0
-  repository: 955159947
-  what: labels-were-scanned
-  where: github
-- _id: 77
-  _time: 2026-01-20 12:58:34.954105727 Z
-  _version: 0.8.0/0.36.2/
-  latest: 0
-  repository: 490221501
-  what: labels-were-scanned
-  where: github
-- _id: 78
-  _time: 2026-01-20 12:58:34.970900282 Z
-  _version: 0.8.0/0.36.2/
-  latest: 0
-  repository: 840332960
-  what: labels-were-scanned
-  where: github
-- _id: 79
-  _time: 2026-01-20 12:58:34.981292491 Z
-  _version: 0.8.0/0.36.2/
-  latest: 0
-  repository: 574459304
-  what: labels-were-scanned
-  where: github
-- _id: 80
-  _time: 2026-01-20 12:58:34.990243232 Z
-  _version: 0.8.0/0.36.2/
-  latest: 0
-  repository: 492899189
-  what: labels-were-scanned
-  where: github
-- _id: 81
-  _time: 2026-01-20 12:58:34.997996465 Z
-  _version: 0.8.0/0.36.2/
-  latest: 0
-  repository: 447446664
-  what: labels-were-scanned
-  where: github
-- _id: 82
-  _time: 2026-01-20 12:58:35.005632857 Z
-  _version: 0.8.0/0.36.2/
-  latest: 0
-  repository: 568705267
-  what: labels-were-scanned
-  where: github
-- _id: 83
-  _time: 2026-01-20 12:58:35.013516706 Z
-  _version: 0.8.0/0.36.2/
-  latest: 0
-  repository: 784310467
-  what: labels-were-scanned
-  where: github
-- _id: 84
-  _time: 2026-01-20 12:58:35.021363645 Z
-  _version: 0.8.0/0.36.2/
-  latest: 0
-  repository: 546194972
-  what: labels-were-scanned
-  where: github
-- _id: 85
-  _time: 2026-01-20 12:58:35.029207138 Z
-  _version: 0.8.0/0.36.2/
-  latest: 0
-  repository: 13623548
-  what: labels-were-scanned
-  where: github
-- _id: 86
-  _time: 2026-01-20 12:58:35.037244807 Z
-  _version: 0.8.0/0.36.2/
-  latest: 0
-  repository: 493235807
-  what: labels-were-scanned
-  where: github
-- _id: 87
-  _time: 2026-01-20 12:58:35.044757495 Z
-  _version: 0.8.0/0.36.2/
-  latest: 0
-  repository: 671896902
-  what: labels-were-scanned
-  where: github
-- _id: 88
-  _time: 2026-01-20 12:58:35.051820687 Z
-  _version: 0.8.0/0.36.2/
-  latest: 0
-  repository: 519299365
-  what: labels-were-scanned
-  where: github
-- _id: 89
-  _time: 2026-01-20 12:58:35.058973056 Z
+- _id: 44
+  _time: 2026-01-20 13:52:45.113072264 Z
   _version: 0.8.0/0.36.2/
   latest: 0
   repository: 977982682
   what: labels-were-scanned
   where: github
-- _id: 90
-  _time: 2026-01-20 12:58:35.066496846 Z
+- _id: 45
+  _time: 2026-01-20 13:52:45.117258202 Z
   _version: 0.8.0/0.36.2/
   latest: 0
-  repository: 543969974
+  repository: 482612876
   what: labels-were-scanned
   where: github
-- _id: 91
-  _time: 2026-01-20 12:58:35.078459047 Z
-  _version: 0.8.0/0.36.2/
-  latest: 0
-  repository: 798766850
-  what: labels-were-scanned
-  where: github
-- _id: 92
-  _time: 2026-01-20 12:58:35.089101548 Z
-  _version: 0.8.0/0.36.2/
-  latest: 0
-  repository: 489321585
-  what: labels-were-scanned
-  where: github
-- _id: 93
-  _time: 2026-01-20 12:58:35.098804027 Z
+- _id: 46
+  _time: 2026-01-20 13:52:45.121490536 Z
   _version: 0.8.0/0.36.2/
   latest: 0
   repository: 519246071
   what: labels-were-scanned
   where: github
-- _id: 94
-  _time: 2026-01-20 12:58:35.107437710 Z
+- _id: 47
+  _time: 2026-01-20 13:52:45.135426597 Z
   _version: 0.8.0/0.36.2/
   latest: 0
-  repository: 970961472
+  repository: 447446664
   what: labels-were-scanned
   where: github
-- _id: 95
-  _time: 2026-01-20 12:58:35.117997796 Z
-  _version: 0.8.0/0.36.2/
-  latest: 0
-  repository: 1037933692
-  what: labels-were-scanned
-  where: github
-- _id: 96
-  _time: 2026-01-20 12:58:35.126911597 Z
-  _version: 0.8.0/0.36.2/
-  latest: 0
-  repository: 731516758
-  what: labels-were-scanned
-  where: github
-- _id: 97
-  _time: 2026-01-20 12:58:35.136119584 Z
+- _id: 48
+  _time: 2026-01-20 13:52:45.143180535 Z
   _version: 0.8.0/0.36.2/
   latest: 0
   repository: 510082372
   what: labels-were-scanned
   where: github
-- _id: 98
-  _time: 2026-01-20 12:58:35.145189309 Z
+- _id: 49
+  _time: 2026-01-20 13:52:45.150087768 Z
   _version: 0.8.0/0.36.2/
   latest: 0
-  repository: 574534248
+  repository: 490157985
   what: labels-were-scanned
   where: github
-- _id: 99
-  _time: 2026-01-20 12:58:35.153352444 Z
+- _id: 50
+  _time: 2026-01-20 13:52:45.156042217 Z
+  _version: 0.8.0/0.36.2/
+  latest: 0
+  repository: 731516758
+  what: labels-were-scanned
+  where: github
+- _id: 51
+  _time: 2026-01-20 13:52:45.163191192 Z
+  _version: 0.8.0/0.36.2/
+  latest: 0
+  repository: 1037933692
+  what: labels-were-scanned
+  where: github
+- _id: 52
+  _time: 2026-01-20 13:52:45.168639193 Z
+  _version: 0.8.0/0.36.2/
+  latest: 0
+  repository: 798766850
+  what: labels-were-scanned
+  where: github
+- _id: 53
+  _time: 2026-01-20 13:52:45.173996153 Z
+  _version: 0.8.0/0.36.2/
+  latest: 0
+  repository: 501942888
+  what: labels-were-scanned
+  where: github
+- _id: 54
+  _time: 2026-01-20 13:52:45.179573737 Z
+  _version: 0.8.0/0.36.2/
+  latest: 0
+  repository: 13623548
+  what: labels-were-scanned
+  where: github
+- _id: 55
+  _time: 2026-01-20 13:52:45.185192988 Z
+  _version: 0.8.0/0.36.2/
+  latest: 0
+  repository: 568705267
+  what: labels-were-scanned
+  where: github
+- _id: 56
+  _time: 2026-01-20 13:52:45.191071014 Z
+  _version: 0.8.0/0.36.2/
+  latest: 0
+  repository: 955159947
+  what: labels-were-scanned
+  where: github
+- _id: 57
+  _time: 2026-01-20 13:52:45.196512021 Z
   _version: 0.8.0/0.36.2/
   latest: 0
   repository: 499536612
   what: labels-were-scanned
   where: github
-- _id: 100
-  _time: 2026-01-20 12:58:35.161568951 Z
+- _id: 58
+  _time: 2026-01-20 13:52:45.201700797 Z
   _version: 0.8.0/0.36.2/
   latest: 0
-  repository: 531151981
+  repository: 493235807
   what: labels-were-scanned
   where: github
-- _id: 101
-  _time: 2026-01-20 12:58:35.170187986 Z
+- _id: 59
+  _time: 2026-01-20 13:52:45.206992034 Z
+  _version: 0.8.0/0.36.2/
+  latest: 0
+  repository: 840332960
+  what: labels-were-scanned
+  where: github
+- _id: 60
+  _time: 2026-01-20 13:52:45.212372558 Z
+  _version: 0.8.0/0.36.2/
+  latest: 0
+  repository: 546194972
+  what: labels-were-scanned
+  where: github
+- _id: 61
+  _time: 2026-01-20 13:52:45.218185282 Z
+  _version: 0.8.0/0.36.2/
+  latest: 0
+  repository: 489321585
+  what: labels-were-scanned
+  where: github
+- _id: 62
+  _time: 2026-01-20 13:52:45.224134311 Z
+  _version: 0.8.0/0.36.2/
+  latest: 0
+  repository: 889819508
+  what: labels-were-scanned
+  where: github
+- _id: 63
+  _time: 2026-01-20 13:52:45.230229062 Z
+  _version: 0.8.0/0.36.2/
+  latest: 0
+  repository: 570457023
+  what: labels-were-scanned
+  where: github
+- _id: 64
+  _time: 2026-01-20 13:52:45.236525051 Z
+  _version: 0.8.0/0.36.2/
+  latest: 0
+  repository: 574459304
+  what: labels-were-scanned
+  where: github
+- _id: 65
+  _time: 2026-01-20 13:52:45.242910156 Z
+  _version: 0.8.0/0.36.2/
+  latest: 0
+  repository: 574534248
+  what: labels-were-scanned
+  where: github
+- _id: 66
+  _time: 2026-01-20 13:52:45.249682316 Z
+  _version: 0.8.0/0.36.2/
+  latest: 0
+  repository: 551486781
+  what: labels-were-scanned
+  where: github
+- _id: 67
+  _time: 2026-01-20 13:52:45.256716917 Z
+  _version: 0.8.0/0.36.2/
+  latest: 0
+  repository: 784310467
+  what: labels-were-scanned
+  where: github
+- _id: 68
+  _time: 2026-01-20 13:52:45.264259650 Z
+  _version: 0.8.0/0.36.2/
+  latest: 0
+  repository: 970961472
+  what: labels-were-scanned
+  where: github
+- _id: 69
+  _time: 2026-01-20 13:52:45.270122427 Z
   _version: 0.8.0/0.36.2/
   latest: 0
   repository: 552394123
   what: labels-were-scanned
   where: github
-- _id: 102
-  _time: 2026-01-20 12:58:35.500743981 Z
-  _version: 0.8.0/0.36.2/
-  details: The '#bug' label was attached by @yegor256 to the issue objectionary/lints#794.
-  issue: 794
-  label: bug
-  repository: 889819508
-  what: label-was-attached
-  when: 2026-01-04 01:40:12.000000000 Z
-  where: github
-  who: 526301
-- _id: 103
-  _time: 2026-01-20 12:58:35.517703547 Z
+- _id: 70
+  _time: 2026-01-20 13:52:45.276043974 Z
   _version: 0.8.0/0.36.2/
   latest: 0
-  repository: 889819508
+  repository: 396732517
   what: labels-were-scanned
   where: github
-- _id: 104
-  _time: 2026-01-20 12:59:48.892203097 Z
+- _id: 71
+  _time: 2026-01-20 13:52:45.282186616 Z
   _version: 0.8.0/0.36.2/
-  average_review_size: 0.8909090909090909
-  average_review_time: 101104.15492957746
-  average_reviewers_per_pull: 0.8090909090909091
-  average_reviews_per_pull: 1.0363636363636364
-  since: 2025-12-23 12:58:35.526662814 Z
+  latest: 0
+  repository: 671896902
+  what: labels-were-scanned
+  where: github
+- _id: 72
+  _time: 2026-01-20 13:52:45.288392325 Z
+  _version: 0.8.0/0.36.2/
+  latest: 0
+  repository: 543969974
+  what: labels-were-scanned
+  where: github
+- _id: 73
+  _time: 2026-01-20 13:52:45.294575883 Z
+  _version: 0.8.0/0.36.2/
+  latest: 0
+  repository: 490221501
+  what: labels-were-scanned
+  where: github
+- _id: 74
+  _time: 2026-01-20 13:52:45.300939448 Z
+  _version: 0.8.0/0.36.2/
+  latest: 0
+  repository: 492899189
+  what: labels-were-scanned
+  where: github
+- _id: 75
+  _time: 2026-01-20 13:52:45.307387952 Z
+  _version: 0.8.0/0.36.2/
+  latest: 0
+  repository: 531151981
+  what: labels-were-scanned
+  where: github
+- _id: 76
+  _time: 2026-01-20 13:52:45.315340141 Z
+  _version: 0.8.0/0.36.2/
+  latest: 0
+  repository: 1049128198
+  what: labels-were-scanned
+  where: github
+- _id: 77
+  _time: 2026-01-20 13:55:23.019585320 Z
+  _version: 0.8.0/0.36.2/
+  average_issue_lifetime: 10971898.475
+  average_pull_lifetime: 374525.1461538462
+  average_release_commits_size: 9.4
+  average_release_hoc_size: 876.4
+  since: 2025-12-23 13:52:45.321272098 Z
   what: quality-of-service
-  when: 2026-01-20 12:58:35.526632447 Z
-- _id: 105
-  _time: 2026-01-20 13:01:35.533775068 Z
+  when: 2026-01-20 13:52:45.321247101 Z
+- _id: 78
+  _time: 2026-01-20 13:55:45.324209594 Z
   _version: 0.8.0/0.36.2/
-  since: 2025-12-23 13:01:35.533901706 Z
+  since: 2025-12-23 13:55:45.324388439 Z
   what: quantity-of-deliverables
-  when: 2026-01-20 13:01:35.533878452 Z
-- _id: 106
-  _time: 2026-01-20 13:01:35.567907468 Z
-  _version: 0.8.0/0.36.2/
-  name: yegor256
-  when: 2026-01-20 13:01:35.568872431 Z
-  where: github
-  who: 526301
-- _id: 107
-  _time: 2026-01-20 13:01:35.727239602 Z
-  _version: 0.8.0/0.36.2/
-  name: yegor256
-  when: 2026-01-20 13:01:35.727375007 Z
-  where: github
-  who: 526301
-- _id: 108
-  _time: 2026-01-20 13:01:35.734253001 Z
-  _version: 0.8.0/0.36.2/
-  name: yegor256
-  when: 2026-01-20 13:01:35.734377395 Z
-  where: github
-  who: 526301
-- _id: 109
-  _time: 2026-01-20 13:01:35.741123271 Z
+  when: 2026-01-20 13:55:45.324351850 Z
+- _id: 79
+  _time: 2026-01-20 13:58:45.323447853 Z
   _version: 0.8.0/0.36.2/
   name: renovate[bot]
-  when: 2026-01-20 13:01:35.741260348 Z
+  when: 2026-01-20 13:58:45.323586433 Z
   where: github
   who: 29139614
-- _id: 110
-  _time: 2026-01-20 13:01:35.882648104 Z
-  _version: 0.8.0/0.36.2/
-  name: renovate[bot]
-  when: 2026-01-20 13:01:35.882782437 Z
-  where: github
-  who: 29139614
-- _id: 111
-  _time: 2026-01-20 13:01:35.888878532 Z
-  _version: 0.8.0/0.36.2/
-  name: yegor256
-  when: 2026-01-20 13:01:35.888977778 Z
-  where: github
-  who: 526301
-- _id: 112
-  _time: 2026-01-20 13:01:35.894332610 Z
-  _version: 0.8.0/0.36.2/
-  name: yegor256
-  when: 2026-01-20 13:01:35.894433940 Z
-  where: github
-  who: 526301
-- _id: 113
-  _time: 2026-01-20 13:01:35.899969662 Z
-  _version: 0.8.0/0.36.2/
-  name: yegor256
-  when: 2026-01-20 13:01:35.900069600 Z
-  where: github
-  who: 526301
-- _id: 114
-  _time: 2026-01-20 13:01:35.905562071 Z
-  _version: 0.8.0/0.36.2/
-  name: yegor256
-  when: 2026-01-20 13:01:35.905676446 Z
-  where: github
-  who: 526301
-- _id: 115
-  _time: 2026-01-20 13:01:35.911338515 Z
-  _version: 0.8.0/0.36.2/
-  name: yegor256
-  when: 2026-01-20 13:01:35.911441789 Z
-  where: github
-  who: 526301
-- _id: 116
-  _time: 2026-01-20 13:01:35.917140507 Z
-  _version: 0.8.0/0.36.2/
-  name: renovate[bot]
-  when: 2026-01-20 13:01:35.917242028 Z
-  where: github
-  who: 29139614
-- _id: 117
-  _time: 2026-01-20 13:01:35.925726080 Z
-  _version: 0.8.0/0.36.2/
-  name: renovate[bot]
-  when: 2026-01-20 13:01:35.925851676 Z
-  where: github
-  who: 29139614
-- _id: 118
-  _time: 2026-01-20 13:01:35.935282307 Z
-  _version: 0.8.0/0.36.2/
-  name: renovate[bot]
-  when: 2026-01-20 13:01:35.935483345 Z
-  where: github
-  who: 29139614
-- _id: 119
-  _time: 2026-01-20 13:01:35.944968248 Z
-  _version: 0.8.0/0.36.2/
-  name: renovate[bot]
-  when: 2026-01-20 13:01:35.945100566 Z
-  where: github
-  who: 29139614
-- _id: 120
-  _time: 2026-01-20 13:01:35.954270126 Z
-  _version: 0.8.0/0.36.2/
-  name: renovate[bot]
-  when: 2026-01-20 13:01:35.954415389 Z
-  where: github
-  who: 29139614
-- _id: 121
-  _time: 2026-01-20 13:01:35.962049915 Z
-  _version: 0.8.0/0.36.2/
-  name: renovate[bot]
-  when: 2026-01-20 13:01:35.962155283 Z
-  where: github
-  who: 29139614
-- _id: 122
-  _time: 2026-01-20 13:01:35.968193499 Z
-  _version: 0.8.0/0.36.2/
-  name: yegor256
-  when: 2026-01-20 13:01:35.968292305 Z
-  where: github
-  who: 526301
-- _id: 123
-  _time: 2026-01-20 13:01:35.974342604 Z
-  _version: 0.8.0/0.36.2/
-  name: renovate[bot]
-  when: 2026-01-20 13:01:35.974440708 Z
-  where: github
-  who: 29139614
-- _id: 124
-  _time: 2026-01-20 13:01:35.980596926 Z
-  _version: 0.8.0/0.36.2/
-  name: renovate[bot]
-  when: 2026-01-20 13:01:35.980712122 Z
-  where: github
-  who: 29139614
-- _id: 125
-  _time: 2026-01-20 13:01:35.986904769 Z
-  _version: 0.8.0/0.36.2/
-  name: rultor
-  when: 2026-01-20 13:01:35.987003624 Z
-  where: github
-  who: 8086956
-- _id: 126
-  _time: 2026-01-20 13:01:36.157514565 Z
-  _version: 0.8.0/0.36.2/
-  name: yegor256
-  when: 2026-01-20 13:01:36.157663464 Z
-  where: github
-  who: 526301
-- _id: 127
-  _time: 2026-01-20 13:01:36.164440469 Z
-  _version: 0.8.0/0.36.2/
-  name: yegor256
-  when: 2026-01-20 13:01:36.164542300 Z
-  where: github
-  who: 526301
